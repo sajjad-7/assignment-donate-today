@@ -1,0 +1,33 @@
+.picture-1 img {
+    width: 100%;
+    margin-bottom: 200%;
+}
+
+.heading {
+    position: absolute;
+    color: whitesmoke;
+    font-size: 80px;
+    top: 30%;
+    width: 100%;
+    text-align: center;
+}
+
+#why-we-help-them {
+    position: absolute;
+    text-align: center;
+    padding-left: 20%;
+    padding-top: 24%;
+    color: white;
+}
+
+    {
+    position: absolute;
+    text-decoration: none;
+    color: black;
+    padding-left: 50%;
+    padding-bottom: 50%;
+    text-align: center;
+    width: 50%;
+    position: absolute;
+
+}
