@@ -1,33 +1,40 @@
-.picture-1 img {
-    width: 100%;
-    margin-bottom: 200%;
-}
-
-.heading {
-    position: absolute;
-    color: whitesmoke;
-    font-size: 80px;
-    top: 30%;
-    width: 100%;
-    text-align: center;
-}
-
-#why-we-help-them {
+.help-people {
     position: absolute;
     text-align: center;
-    padding-left: 20%;
-    padding-top: 24%;
     color: white;
 }
 
-    {
-    position: absolute;
+#heading {
+    font-size: 80px;
+    padding-left: 5%;
+}
+
+#why-help {
+    font-size: 40px;
+    padding-left: 5%;
+}
+
+#where {
+    color: whitesmoke;
     text-decoration: none;
-    color: black;
-    padding-left: 50%;
-    padding-bottom: 50%;
+    background-color: rgb(207, 78, 55);
+    padding: 10px 40px;
+}
+
+.picture-quality {
+    width: 100%;
+    margin-bottom: 150%;
+    height: 700px;
+}
+
+.part-2nd {
+    margin-bottom: 200%;
+    height: 10px;
+    width: 100%;
+}
+
+#party {
     text-align: center;
-    width: 50%;
-    position: absolute;
+    font-size: 50px;
 
 }
