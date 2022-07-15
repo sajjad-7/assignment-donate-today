@@ -4,6 +4,11 @@
     color: white;
 }
 
+.picture-1 {
+    width: 100%;
+    height: 700px;
+}
+
 #heading {
     font-size: 80px;
     padding-left: 5%;
@@ -28,13 +33,44 @@
 }
 
 .part-2nd {
-    margin-bottom: 200%;
-    height: 10px;
+    height: 200px;
     width: 100%;
 }
 
-#party {
+.party {
     text-align: center;
-    font-size: 50px;
+    font-size: 30px;
+}
 
+.amount-of-money {
+    display: flex;
+    width: 50%;
+    font-size: 40px;
+    box-shadow: 10px 10px 10px 10px whitesmoke;
+    margin-left: 30%;
+    padding-right: 10px 10px;
+    height: 100px;
+}
+
+#other {
+    margin-top: 2%;
+    text-align: center;
+    font-size: 20px;
+}
+
+#line {
+    margin-top: 1%;
+    margin-left: 25%;
+    margin-right: 20%;
+    height: 40px;
+}
+
+#where-2nd {
+    color: whitesmoke;
+    text-decoration: none;
+    background-color: rgb(207, 78, 55);
+    padding: 10px 40px;
+    margin-left: 45%;
+    margin-top: 50%;
+    font-size: 20px;
 }
