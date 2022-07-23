@@ -74,3 +74,83 @@
     margin-top: 50%;
     font-size: 20px;
 }
+
+.donate-plan {
+    text-align: center;
+    margin-top: 10%;
+    font-size: 20px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-left: 2%;
+}
+
+.donate-ways {
+    display: flex;
+    padding: 10%;
+}
+
+h6 {
+    font-size: 30px;
+    margin-left: 2%;
+}
+
+.whole-foods {
+    background-color: aqua;
+    margin-right: 5%;
+
+    font-size: 15px;
+
+}
+
+#icons {
+    margin-top: 2%;
+    margin-left: 2%;
+}
+
+#f-shelter {
+    margin-left: 2%;
+    font-size: 18px;
+}
+
+.shelter-home {
+    background-color: antiquewhite;
+    margin-right: 5%;
+
+    font-size: 15px;
+}
+
+.frame {
+    background-color: bisque;
+    margin-right: 2%;
+    margin-left: 2%;
+}
+
+.lives-depends {
+    display: flex;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#help-p {
+    font-size: 20px;
+    margin-left: 2%;
+}
+
+#where-p {
+    color: whitesmoke;
+    text-decoration: none;
+    background-color: rgb(207, 78, 55);
+    padding: 10px 40px;
+    font-size: 20px;
+    margin-left: 2%;
+
+}
+
+.survive {
+    display: flex;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+}
